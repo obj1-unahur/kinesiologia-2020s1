@@ -1,4 +1,4 @@
-# Parcial Kinesiologia
+# Centro de Kinesiologia
 
 En un centro de kinesiología hay distintos tratamientos para la cura de lesiones dolorosas y fortalecimiento muscular.
 Se nos pide armar un modelo que permita estudiar algunos parámetros sobre los pacientes, y controlar el uso de los aparatos.
